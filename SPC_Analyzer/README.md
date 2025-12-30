@@ -13,4 +13,6 @@ This project demonstrates Statistical Process Control (SPC) using Python.
 - matplotlib
 
 ## Status
-In progress
+## Files
+- Day01_Process_Data_Visualization.ipynb  
+  Initial notebook demonstrating data handling and process trend visualization using pandas and matplotlib.
